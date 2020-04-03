@@ -1,8 +1,6 @@
 ## TETAP BERGEMBIRA WALAU BERJARAK
 
-You can use the [editor on GitHub](https://github.com/mr-slametrivai/mabardistancing/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Karena wabah COVID-19 membuat kita semua berdiam diri di dalam rumah, tapi kita ini insan bukan seekor sapi!, kuylah kita tetap silaturahmi, kita tetap war walau jarak memisahkan kita, ini pasti seru banget gan!.
 
 ### KOMPETISI
 
